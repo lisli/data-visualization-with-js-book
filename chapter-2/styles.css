@@ -1,0 +1,43 @@
+.chart {
+	float: left;
+	width: 500px;
+	height: 333px;
+}
+
+#controls {
+	/*float: left;*/
+}
+
+label {
+	display: block;
+}
+
+/*label span {
+	height: .9em;
+	width: .9em;
+	display: inline-block;
+}*/
+
+/*.eas {
+	background-color: blue;
+}
+
+.ecs {
+	background-color: yellow;
+}
+
+.lcn {
+	background-color: red;
+}
+
+.mea {
+	background-color: green;
+}
+
+.sas {
+	background-color: purple;
+}
+
+.ssf {
+	background-color: brown;
+}*/

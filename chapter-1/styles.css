@@ -1,5 +1,5 @@
-#chart,
-#chart2 {
+.chart {
 	height: 300px;
 	width: 600px;
+	margin-bottom: 40px;
 }
